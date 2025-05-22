@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Dados</string>
+    <string name="dice_game">Jogo de dados</string>
+    <string name="image_description">Imagem mostrando o valor no qual o dado parou!</string>
+    <string name="play">Jogar</string>
+    <string name="dice_result">Resultado da rodada: %d</string>
+    <string name="toast_info">Resultado repetido!</string>
 </resources>

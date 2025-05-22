@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="dice_game">Dice game</string>
+    <string name="image_description">Image showing dice result!</string>
+    <string name="play">Play</string>
+    <string name="dice_result">Result: %d</string>
+    <string name="toast_info">Repeated value!</string>
+</resources>
