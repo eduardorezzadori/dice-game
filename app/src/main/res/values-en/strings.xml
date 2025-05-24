@@ -5,4 +5,5 @@
     <string name="play">Play</string>
     <string name="dice_result">Result: %d</string>
     <string name="toast_info">Repeated value!</string>
+    <string name="repeated_result">Repeated number: %d</string>
 </resources>

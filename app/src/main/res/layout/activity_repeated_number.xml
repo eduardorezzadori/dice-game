@@ -21,10 +21,10 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/dice_result"
+        android:id="@+id/dice_repeated_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/dice_result"
+        android:text="@string/repeated_result"
         android:textSize="@dimen/text_size"
         android:textColor="@color/black"
         android:textStyle="normal"
@@ -42,19 +42,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:src="@drawable/dice6" />
-
-    <Button
-        android:id="@+id/play_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingHorizontal="@dimen/padding_128dp"
-        android:text="@string/play"
-        android:textSize="@dimen/text_size"
-        app:layout_constraintTop_toBottomOf="@+id/dice_image"
-        android:layout_marginTop="@dimen/margin_4"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

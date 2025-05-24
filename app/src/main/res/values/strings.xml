@@ -5,4 +5,5 @@
     <string name="play">Jogar</string>
     <string name="dice_result">Resultado da rodada: %d</string>
     <string name="toast_info">Resultado repetido!</string>
+    <string name="repeated_result">O número %d foi repetido!</string>
 </resources>
